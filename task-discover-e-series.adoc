@@ -26,13 +26,13 @@ https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["En sav
 
 .Étapes
 . Dans le menu de navigation BlueXP, sélectionnez *stockage > Canvas*.
-. Dans la zone de travail, cliquez sur *Ajouter un environnement de travail* et sélectionnez *sur site*.
+. Dans la zone de travail, sélectionnez *Ajouter un environnement de travail* et sélectionnez *sur site*.
 . En regard de *E-Series*, sélectionnez *Discover*.
 . Si vous y êtes invité, créez un connecteur.
 +
 Reportez-vous au lien ci-dessus pour en savoir plus.
 
-. Sur la page _E-Series Cluster Details_, entrez le nom de domaine ou l'adresse IP du contrôleur du système de stockage, les informations d'identification d'administration du système, puis cliquez sur *Add*.
+. Sur la page _E-Series Cluster Details_, entrez le nom de domaine ou l'adresse IP du contrôleur du système de stockage, les informations d'identification admin du système, puis sélectionnez *Add*.
 +
 image:screenshot-cluster-details.png["La page E-Series Cluster Details s'affiche dans laquelle vous êtes invité à entrer le nom de domaine ou l'adresse IP, ainsi que le nom d'utilisateur et le mot de passe de l'administrateur."]
 

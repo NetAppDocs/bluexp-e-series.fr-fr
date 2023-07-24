@@ -16,7 +16,8 @@ summary: Une fois que vous avez découvert vos systèmes E-Series, vous pouvez c
 Une fois que vous avez découvert vos systèmes E-Series, vous pouvez consulter des informations sur la distribution de la capacité, les volumes et les hôtes.
 
 .Étapes
-. Dans la zone de travail, double-cliquez sur le nom de l'environnement de travail E-Series que vous souhaitez afficher.
+. Dans le menu de navigation, sélectionnez *stockage > Canvas*.
+. Sur la page Canvas, sélectionnez l'environnement de travail E-Series que vous souhaitez afficher.
 . Sélectionnez l'un des onglets pour afficher des informations supplémentaires sur votre système E-Series :
 +
 ** *Présentation* : une vue détaillée de la distribution de la capacité du système (allouée, libre et non affecté), du nombre de volumes, d'hôtes, etc.
