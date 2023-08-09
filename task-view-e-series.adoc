@@ -13,6 +13,7 @@ summary: Une fois que vous avez découvert vos systèmes E-Series, vous pouvez c
 :imagesdir: ./media/
 
 
+[role="lead"]
 Une fois que vous avez découvert vos systèmes E-Series, vous pouvez consulter des informations sur la distribution de la capacité, les volumes et les hôtes.
 
 .Étapes
