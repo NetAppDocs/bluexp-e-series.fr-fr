@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: task-discover-e-series.html 
 keywords: e-series, cluster, discover, manage, discovering, discover e-series 
-summary: 'BlueXP peut découvrir les systèmes de stockage E-Series dans votre environnement sur site. L"ajout de systèmes E-Series à BlueXP vous permet d"obtenir une vue complète des données dans votre environnement multicloud hybride.' 
+summary: 'BlueXP peut détecter les systèmes E-Series dans votre environnement sur site. L"ajout de systèmes E-Series à BlueXP vous permet d"obtenir une vue complète des données dans votre environnement multicloud hybride.' 
 ---
-= Découvrez les systèmes de stockage E-Series
+= Découvrez les systèmes E-Series
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 
@@ -14,10 +14,12 @@ summary: 'BlueXP peut découvrir les systèmes de stockage E-Series dans votre e
 
 
 [role="lead"]
-BlueXP peut découvrir les systèmes de stockage E-Series dans votre environnement sur site. L'ajout de systèmes E-Series à BlueXP vous permet d'obtenir une vue complète des données dans votre environnement multicloud hybride.
+BlueXP peut détecter les systèmes E-Series dans votre environnement sur site. L'ajout de systèmes E-Series à BlueXP vous permet d'obtenir une vue complète des données dans votre environnement multicloud hybride.
 
-.Ce dont vous avez besoin
-* Connecteur installé dans un fournisseur cloud ou sur site, avec connectivité réseau au système de stockage E-Series.
+.Avant de commencer
+Il faut les éléments suivants :
+
+* Connecteur installé dans un fournisseur cloud ou sur site, avec une connectivité réseau au système E-Series.
 +
 https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["En savoir plus sur les connecteurs et comment en créer un"^]
 
@@ -40,6 +42,6 @@ image:screenshot-cluster-details.png["La page E-Series Cluster Details s'affiche
 
 
 .Résultat
-BlueXP découvre le système de stockage E-Series et l'ajoute comme environnement de travail sur la toile.
+BlueXP découvre le système E-Series et l'ajoute comme environnement de travail sur le Canvas.
 
 image:screenshot-canvas.png["Capture d'écran montrant un environnement de travail E-Series sur BlueXP Canvas."]

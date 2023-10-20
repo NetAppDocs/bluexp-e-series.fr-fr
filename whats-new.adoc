@@ -24,4 +24,4 @@ Découvrez les nouveautés de la gestion des systèmes E-Series dans BlueXP.
 
 === Prise en charge des baies E-Series
 
-Vous pouvez désormais découvrir vos systèmes de stockage E-Series directement depuis BlueXP. La découverte des systèmes E-Series vous offre une vue complète des données dans l'ensemble de votre multicloud hybride.
+Vous pouvez désormais découvrir vos systèmes E-Series directement à partir de BlueXP. La découverte des systèmes E-Series vous offre une vue complète des données dans l'ensemble de votre multicloud hybride.
