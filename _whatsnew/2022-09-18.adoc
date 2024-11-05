@@ -1,0 +1,9 @@
+= Prise en charge des baies E-Series
+:allow-uri-read: 
+
+
+
+
+=== Prise en charge des baies E-Series
+
+Vous pouvez désormais découvrir vos systèmes E-Series directement à partir de BlueXP. La découverte des systèmes E-Series vous offre une vue complète des données dans l'ensemble de votre multicloud hybride.
